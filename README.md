@@ -66,6 +66,3 @@ Special attention must be paid to the usability and accessibility of the UI. Thi
 
 5.  **Access the UI**: Once the development server is running, the UI will typically be accessible in your web browser at `http://localhost:3000` (or another port if configured differently).
 
-## Copyright
-
-Copyright © 2025 Kaiburr LLC. All rights reserved.
